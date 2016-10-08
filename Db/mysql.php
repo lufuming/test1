@@ -8,5 +8,6 @@
  */
 class mysql
 {
+    function connect(){}
 
 }
