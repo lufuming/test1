@@ -9,6 +9,5 @@
 class mysql
 {
     function connect(){}
-    function add(){}
-    function delete(){}
+   
 }
