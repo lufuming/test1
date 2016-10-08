@@ -6,7 +6,7 @@
  * 日期:
  * 时间点:
  */
-class mysql
+class pdo
 {
     function connect(){}
     function add(){}

@@ -6,7 +6,7 @@
  * 日期:
  * 时间点:
  */
-class mysql
+class mysqli
 {
     function connect(){}
     function add(){}
